@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/whinx-react/static/css/main.dba843e9.css",
+    "main.js": "/whinx-react/static/js/main.7f6748ab.js",
+    "index.html": "/whinx-react/index.html",
+    "main.dba843e9.css.map": "/whinx-react/static/css/main.dba843e9.css.map",
+    "main.7f6748ab.js.map": "/whinx-react/static/js/main.7f6748ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dba843e9.css",
+    "static/js/main.7f6748ab.js"
+  ]
+}
